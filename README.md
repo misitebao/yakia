@@ -31,3 +31,5 @@ English | [中文](README_zh.md)
 ## :clap: Thanks
 
 ## :copyright: License
+
+[License MIT](LICENSE)

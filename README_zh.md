@@ -31,3 +31,5 @@
 ## :clap: 鸣谢
 
 ## :copyright: 版权信息
+
+[License MIT](LICENSE)
