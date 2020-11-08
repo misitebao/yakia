@@ -1,5 +1,5 @@
 # name: Deploy
-# 
+#
 # on:
 #   push:
 #     branches: [master]
@@ -8,22 +8,22 @@
 # jobs:
 #   build-and-deploy:
 #     runs-on: ubuntu-latest
-# 
+#
 #     if: github.repository == 'misitebao/wails-docsv1'
-# 
+#
 #     steps:
 #       - name: Checkout
 #         uses: actions/checkout@master
-# 
+#
 #       - name: Setup Hugo
 #         uses: peaceiris/actions-hugo@v2.2.2
 #         with:
 #           hugo-version: "0.76.5"
 #           extended: true
-# 
+#
 #       - name: Build
 #         run: hugo --minify
-# 
+#
 #       - name: Deploy to Server
 #         uses: hengkx/ssh-deploy@v1.0.1
 #         with:
