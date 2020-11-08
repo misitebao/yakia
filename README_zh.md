@@ -1,10 +1,16 @@
 # README
 
+<span id="国际化"></span>
+
 ## :large_blue_circle: 国际化
 
 [English](README.md) | 中文
 
 ## :book: 内容目录
+
+- [国际化](#国际化)
+
+- [国际化](#版权信息)
 
 ## :information_source: 项目介绍
 
@@ -31,6 +37,8 @@
 ## :moneybag: 赞助商
 
 ## :clap: 鸣谢
+
+<span id="版权信息"></span>
 
 ## :copyright: 版权信息
 
