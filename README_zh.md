@@ -1,6 +1,6 @@
 # README
 
-<span id="国际化"></span>
+<div id="国际化"></div>
 
 ## :large_blue_circle: 国际化
 
@@ -38,8 +38,6 @@
 
 ## :clap: 鸣谢
 
-<span id="License"></span>
-
-## :copyright: 版权信息
+## :copyright: <span id="License"></span>版权信息
 
 [License MIT](LICENSE)
