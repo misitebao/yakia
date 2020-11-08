@@ -1,7 +1,5 @@
 # README
 
-<div id="国际化"></div>
-
 ## :large_blue_circle: <span id="国际化"></span>国际化
 
 [English](README.md) | 中文
