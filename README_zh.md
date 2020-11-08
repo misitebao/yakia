@@ -10,7 +10,7 @@
 
 - [国际化](#国际化)
 
-- [国际化](#版权信息)
+- [国际化](#License)
 
 ## :information_source: 项目介绍
 
@@ -38,7 +38,7 @@
 
 ## :clap: 鸣谢
 
-<span id="版权信息"></span>
+<span id="License"></span>
 
 ## :copyright: 版权信息
 
