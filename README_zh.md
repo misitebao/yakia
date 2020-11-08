@@ -24,6 +24,8 @@
 
 ## :stars: 贡献者
 
+### :dizzy: 社区交流
+
 ## :coffee: 捐赠者
 
 ## :moneybag: 赞助商

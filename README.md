@@ -24,6 +24,8 @@ English | [中文](README_zh.md)
 
 ## :stars: Contributors
 
+### :dizzy: Community Exchange
+
 ## :coffee: Donators
 
 ## :moneybag: Sponsors
