@@ -1,6 +1,7 @@
 ---
 name: Bug Template | 问题提交模板
 about: Please describe in detail the problems you encountered in the process of using | 请详细描述您使用过程中遇到的问题
+title: [Bug]Some problem... | 一些问题。。。
 ---
 <--Please answer these questions before you submit a bug. | 请在您提交bug之前，回答以下这些问题。-->
 
@@ -14,3 +15,5 @@ about: Please describe in detail the problems you encountered in the process of 
 
 
 ## 4. What is your expected outcome? | 您期望的结果是怎样的？
+
+
