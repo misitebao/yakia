@@ -14,10 +14,11 @@ English | [简体中文](README.zh_CN.md)
 - [Example](#Example)
 - [Features](#Features)
 - [Architecture](#Architecture)
-- [Installation](#Installation)
+- [Getting Started](#GettingStarted)
 - [Authors](#Authors)
 - [Contributors](#Contributors)
   - [Community Exchange](#CommunityExchange)
+- [Release History](CHANGE.md)
 - [Donators](#Donators)
 - [Sponsors](#Sponsors)
 - [Thanks](#Thanks)
@@ -35,7 +36,7 @@ English | [简体中文](README.zh_CN.md)
 
 ## :leaves: <span id="Architecture"></span>Architecture
 
-## :gem: <span id="Installation"></span>Installation
+## :gem: <span id="GettingStarted"></span>Getting Started
 
 ## :stuck_out_tongue_winking_eye: <span id="Authors"></span>Authors
 
