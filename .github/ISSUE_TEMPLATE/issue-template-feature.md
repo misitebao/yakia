@@ -1,7 +1,7 @@
 ---
 name: Feature Template | 功能提交模板
 about: Please describe in detail the features you expect | 请详细描述您期望的功能
-title: [Feature]Some feature... | 一些需求。。。
+title: "[Feature]Some feature... | 一些需求。。。"
 ---
 
 <--Please answer these questions before you submit the desired feature. | 请在您提交期望的功能之前，回答以下这些问题。-->
