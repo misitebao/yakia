@@ -11,13 +11,13 @@ English | [简体中文](README.zh_CN.md)
 - [Introductions](#Introductions)
   - [OfficialWebsite](#OfficialWebsite)
 - [Demo](#Demo)
-- [Example](#Example)
 - [Features](#Features)
 - [Architecture](#Architecture)
-- [Installation](#Installation)
+- [Getting Started](#GettingStarted)
 - [Authors](#Authors)
 - [Contributors](#Contributors)
   - [Community Exchange](#CommunityExchange)
+- [Release History](CHANGE.md)
 - [Donators](#Donators)
 - [Sponsors](#Sponsors)
 - [Thanks](#Thanks)
@@ -29,13 +29,11 @@ English | [简体中文](README.zh_CN.md)
 
 ## :foggy: <span id="Demo"></span>Demo
 
-## :large_blue_diamond: <span id="Example"></span>Example
-
 ## :eight_spoked_asterisk: <span id="Features"></span>Features
 
 ## :leaves: <span id="Architecture"></span>Architecture
 
-## :gem: <span id="Installation"></span>Installation
+## :gem: <span id="GettingStarted"></span>Getting Started
 
 ## :stuck_out_tongue_winking_eye: <span id="Authors"></span>Authors
 
