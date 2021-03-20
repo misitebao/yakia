@@ -1,10 +1,10 @@
 # README
 
-## :large_blue_circle: <span id="国际化"></span>国际化
+## 🌏<span id="国际化"></span>国际化
 
 [English](README.md) | 简体中文
 
-## :book: <span id="内容目录"></span>内容目录
+## 📚<span id="内容目录"></span>内容目录
 
 - [国际化](#国际化)
 - [内容目录](#内容目录)

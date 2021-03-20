@@ -1,10 +1,10 @@
 # README
 
-## :large_blue_circle: <span id="Internationalization"></span>Internationalization
+## 🌏<span id="Internationalization"></span>Internationalization
 
 English | [简体中文](README.zh_CN.md)
 
-## :book: <span id="Contents"></span>Contents
+## 📚<span id="Contents"></span>Contents
 
 - [Internationalization](#Internationalization)
 - [Contents](#Contents)
