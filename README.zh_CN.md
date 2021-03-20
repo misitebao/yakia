@@ -23,30 +23,30 @@
 - [鸣谢](#鸣谢)
 - [版权信息](#版权信息)
 
-## ℹ️ <span id="项目介绍"></span>项目介绍
+## ℹ️<span id="项目介绍"></span>项目介绍
 
-### :bell: <span id="官网"></span>官网
+### 🔔<span id="官网"></span>官网
 
-## :foggy: <span id="演示"></span>演示
+## 🌅<span id="演示"></span>演示
 
-## :eight_spoked_asterisk: <span id="特征"></span>特征
+## ✳️<span id="特征"></span>特征
 
-## :leaves: <span id="架构"></span>架构
+## 🍊<span id="架构"></span>架构
 
-## :gem: <span id="快速开始"></span>使用方法
+## 💎<span id="快速开始"></span>使用方法
 
-## :stuck_out_tongue_winking_eye: <span id="关于作者"></span>关于作者
+## 🙆<span id="关于作者"></span>关于作者
 
-## :stars: <span id="贡献者"></span>贡献者
+## 🌟<span id="贡献者"></span>贡献者
 
-### :dizzy: <span id="社区交流"></span>社区交流
+### 😵<span id="社区交流"></span>社区交流
 
-## :coffee: <span id="捐赠者"></span>捐赠者
+## ☕<span id="捐赠者"></span>捐赠者
 
-## :moneybag: <span id="赞助商"></span>赞助商
+## 💰<span id="赞助商"></span>赞助商
 
-## :clap: <span id="鸣谢"></span>鸣谢
+## 👏<span id="鸣谢"></span>鸣谢
 
-## :copyright: <span id="版权信息"></span>版权信息
+## ©️<span id="版权信息"></span>版权信息
 
 [License MIT](LICENSE)
