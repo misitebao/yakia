@@ -23,30 +23,30 @@ English | [简体中文](README.zh_CN.md)
 - [Thanks](#Thanks)
 - [License](#License)
 
-## :information_source: <span id="Introductions"></span>Introductions
+## ℹ️<span id="Introductions"></span>Introductions
 
-### :bell: <span id="OfficialWebsite"></span>Official Website
+### 🔔<span id="OfficialWebsite"></span>Official Website
 
-## :foggy: <span id="Demo"></span>Demo
+## 🌅<span id="Demo"></span>Demo
 
-## :eight_spoked_asterisk: <span id="Features"></span>Features
+## ✳️<span id="Features"></span>Features
 
-## :leaves: <span id="Architecture"></span>Architecture
+## 🍊<span id="Architecture"></span>Architecture
 
-## :gem: <span id="GettingStarted"></span>Getting Started
+## 💎<span id="GettingStarted"></span>Getting Started
 
-## :stuck_out_tongue_winking_eye: <span id="Authors"></span>Authors
+## 🙆<span id="Authors"></span>Authors
 
-## :stars: <span id="Contributors"></span>Contributors
+## 🌟<span id="Contributors"></span>Contributors
 
-### :dizzy: <span id="CommunityExchange"></span>Community Exchange
+### 😵<span id="CommunityExchange"></span>Community Exchange
 
-## :coffee: <span id="Donators"></span>Donators
+## ☕<span id="Donators"></span>Donators
 
-## :moneybag: <span id="Sponsors"></span>Sponsors
+## 💰<span id="Sponsors"></span>Sponsors
 
-## :clap: <span id="Thanks"></span>Thanks
+## 👏<span id="Thanks"></span>Thanks
 
-## :copyright: <span id="License"></span>License
+## ©️<span id="License"></span>License
 
 [License MIT](LICENSE)
