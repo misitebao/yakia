@@ -4,7 +4,7 @@
 
 ## 🌏国际化
 
-English | [简体中文](README.zh_CN.md)
+[English](README.md) | 简体中文
 
 <span id="nav-2"></span>
 
