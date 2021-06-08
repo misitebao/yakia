@@ -10,7 +10,7 @@ Open source Git repository template
 
 ## 🌏 Internationalization
 
-English | [简体中文](README.zh_Hans.md)
+English | [简体中文](README.zh-Hans.md)
 
 <span id="nav-2"></span>
 
