@@ -2,13 +2,13 @@
 
 <span id="nav-1"></span>
 
-## 🌏Internationalization
+## 🌏 Internationalization
 
 English | [简体中文](README.zh_hans.md)
 
 <span id="nav-2"></span>
 
-## 📚Contents
+## 📚 Contents
 
 - [Internationalization](#nav-1)
 - [Contents](#nav-2)
@@ -29,39 +29,39 @@ English | [简体中文](README.zh_hans.md)
 
 <span id="nav-3"></span>
 
-## ℹ️Introductions
+## ℹ️ Introductions
 
 <span id="nav-3-1"></span>
 
-### 🔔Official Website
+### 🔔 Official Website
 
 <span id="nav-4"></span>
 
-## 🌅Demo
+## 🌅 Demo
 
 <span id="nav-5"></span>
 
-## ✳️Features
+## ✳️ Features
 
 <span id="nav-6"></span>
 
-## 🍊Architecture
+## 🍊 Architecture
 
 <span id="nav-7"></span>
 
-## 💎Getting Started
+## 💎 Getting Started
 
 <span id="nav-8"></span>
 
-## 🙆Authors
+## 🙆 Authors
 
 <span id="nav-9"></span>
 
-## 🌟Contributors
+## 🌟 Contributors
 
 <span id="nav-9-1"></span>
 
-### 😵Community Exchange
+### 😵 Community Exchange
 
 <span id="nav-11"></span>
 

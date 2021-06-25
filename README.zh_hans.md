@@ -2,13 +2,13 @@
 
 <span id="nav-1"></span>
 
-## 🌏国际化
+## 🌏 国际化
 
 [English](README.md) | 简体中文
 
 <span id="nav-2"></span>
 
-## 📚内容目录
+## 📚 内容目录
 
 - [国际化](#nav-1)
 - [内容目录](#nav-2)
@@ -29,54 +29,54 @@
 
 <span id="nav-3"></span>
 
-## ℹ️项目介绍
+## ℹ️ 项目介绍
 
 <span id="nav-3-1"></span>
 
-### 🔔官网
+### 🔔 官网
 
 <span id="nav-4"></span>
 
-## 🌅演示
+## 🌅 演示
 
 <span id="nav-5"></span>
 
-## ✳️特征
+## ✳️ 特征
 
 <span id="nav-6"></span>
 
-## 🍊架构
+## 🍊 架构
 
 <span id="nav-7"></span>
 
-## 💎快速开始
+## 💎 快速开始
 
 <span id="nav-8"></span>
 
-## 🙆关于作者
+## 🙆 关于作者
 
 <span id="nav-9"></span>
 
-## 🌟贡献者
+## 🌟 贡献者
 
 <span id="nav-9-1"></span>
 
-### 😵社区交流
+### 😵 社区交流
 
 <span id="nav-11"></span>
 
-## ☕捐赠者
+## ☕ 捐赠者
 
 <span id="nav-12"></span>
 
-## 💰赞助商
+## 💰 赞助商
 
 <span id="nav-13"></span>
 
-## 👏鸣谢
+## 👏 鸣谢
 
 <span id="nav-14"></span>
 
-## ©️版权许可
+## ©️ 版权许可
 
 [License MIT](LICENSE)
