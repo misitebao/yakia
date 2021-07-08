@@ -1,6 +1,6 @@
 <!-- # README -->
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="180" height="180"/><br/>
+   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="40%" /><br/>
 </p>
 <p align="center">
 开源Git存储库模板
@@ -19,18 +19,19 @@
 - [国际化](#nav-1)
 - [内容目录](#nav-2)
 - [项目介绍](#nav-3)
-  - [官网](#nav-3-1)
-- [演示](#nav-4)
-- [特征](#nav-5)
+  - [官方网站](#nav-3-1)
+- [图形演示](#nav-4)
+- [功能特色](#nav-5)
 - [架构](#nav-6)
-- [快速开始](#nav-7)
+- [新手入门](#nav-7)
 - [关于作者](#nav-8)
 - [贡献者](#nav-9)
   - [社区交流](#nav-9-1)
+- [部分用户](#nav-10)
 - [发布记录](CHANGE.md)
 - [捐赠者](#nav-11)
 - [赞助商](#nav-12)
-- [鸣谢](#nav-13)
+- [特别鸣谢](#nav-13)
 - [版权许可](#nav-14)
 
 <span id="nav-3"></span>
@@ -39,15 +40,15 @@
 
 <span id="nav-3-1"></span>
 
-### 🔔 官网
+### 🔔 官方网站
 
 <span id="nav-4"></span>
 
-## 🌅 演示
+## 🌅 图形演示
 
 <span id="nav-5"></span>
 
-## ✳️ 特征
+## ✳️ 功能特色
 
 <span id="nav-6"></span>
 
@@ -55,7 +56,7 @@
 
 <span id="nav-7"></span>
 
-## 💎 快速开始
+## 💎 新手入门
 
 <span id="nav-8"></span>
 
@@ -68,6 +69,10 @@
 <span id="nav-9-1"></span>
 
 ### 😵 社区交流
+
+<span id="nav-10"></span>
+
+## 👼 部分用户
 
 <span id="nav-11"></span>
 
