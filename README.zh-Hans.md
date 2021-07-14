@@ -1,6 +1,6 @@
 <!-- # README -->
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="40%" /><br/>
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="40%" /><br/>
 </p>
 <p align="center">
 开源Git存储库模板
@@ -10,7 +10,7 @@
 
 ## 🌏 国际化
 
-[English](README.md) | 简体中文
+[English](README.md) | [简体中文](README.zh-Hans.md) | [русский](README.ru.md) | [français](README.fr.md)
 
 <span id="nav-2"></span>
 
@@ -38,17 +38,27 @@
 
 ## ℹ️ 项目介绍
 
+此项目是一个 Github 示例仓库模板，主要内容为 README 的示例模板。
+
 <span id="nav-3-1"></span>
 
 ### 🔔 官方网站
 
+[如何写好开源项目的 README](https://blog.misitebao.com/posts/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84readme-%E8%87%AA%E7%94%A8git%E4%BB%93%E5%BA%93%E6%A8%A1%E6%9D%BF%E5%88%86%E4%BA%AB/)
 <span id="nav-4"></span>
 
 ## 🌅 图形演示
 
+![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/20210727130417.png)
+
 <span id="nav-5"></span>
 
 ## ✳️ 功能特色
+
+- 项目 Logo 以及相应数据居中展示
+- 提供多语言功能以及示例模板
+- README 必备的说明
+- 内置目录导航功能，解决部分 Markdown 解析引擎不能正确解析导航的问题
 
 <span id="nav-6"></span>
 
@@ -62,9 +72,13 @@
 
 ## 🙆 关于作者
 
+本项目作者：[米司特包](https://github.com/misitebao)。高级工程师，创业者。
+
 <span id="nav-9"></span>
 
 ## 🌟 贡献者
+
+感谢所有参与模板-git-repository 开发的贡献者。[Contributors](https://github.com/misitebao/template-git-repository/graphs/contributors)
 
 <span id="nav-9-1"></span>
 
