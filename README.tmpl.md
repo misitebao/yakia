@@ -18,6 +18,9 @@
 
 ## 📚 Contents
 
+<details open="open">
+  <summary>Click me to Open/Close the directory listing</summary>
+
 - [Internationalization](#nav-1)
 - [Contents](#nav-2)
 - [Introductions](#nav-3)
@@ -35,6 +38,8 @@
 - [Sponsors](#nav-12)
 - [Thanks](#nav-13)
 - [License](#nav-14)
+
+</details>
 
 <span id="nav-3"></span>
 
