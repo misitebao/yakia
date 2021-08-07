@@ -15,6 +15,9 @@ Open source Git repository template
 
 ## 📚 Contents
 
+<details open="open">
+  <summary>Open/Close List</summary>
+
 - [Internationalization](#nav-1)
 - [Contents](#nav-2)
 - [Introductions](#nav-3)
@@ -32,6 +35,8 @@ Open source Git repository template
 - [Sponsors](#nav-12)
 - [Thanks](#nav-13)
 - [License](#nav-14)
+
+</details>
 
 <span id="nav-3"></span>
 
