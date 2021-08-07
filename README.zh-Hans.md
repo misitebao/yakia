@@ -1,4 +1,3 @@
-<!-- # README -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="40%" /><br/>
 </p>
@@ -78,7 +77,7 @@
 
 ## 🌟 贡献者
 
-感谢所有参与模板-git-repository 开发的贡献者。[Contributors](https://github.com/misitebao/template-git-repository/graphs/contributors)
+感谢所有参与 template-git-repository 开发的贡献者。[贡献者列表](https://github.com/misitebao/template-git-repository/graphs/contributors)
 
 <span id="nav-9-1"></span>
 
