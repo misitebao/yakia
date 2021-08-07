@@ -48,7 +48,7 @@
 
 ## 🌅 图形演示
 
-![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/20210727130417.png)
+![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository.gif)
 
 <span id="nav-5"></span>
 
