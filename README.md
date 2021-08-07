@@ -15,7 +15,7 @@ Open source Git repository template
 
 ## 📚 Contents
 
-<details open="open">
+<details>
   <summary>Click me to Open/Close the directory listing</summary>
 
 - [Internationalization](#nav-1)
