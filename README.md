@@ -68,6 +68,8 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ## 💎 Getting Started
 
+[Click me](README.tmpl.md) to view the template file, and then click Edit to copy the template content.
+
 <span id="nav-8"></span>
 
 ## 🙆 Authors

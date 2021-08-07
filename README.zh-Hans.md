@@ -67,6 +67,8 @@
 
 ## 💎 新手入门
 
+[点我](README.zh-Hans.tmpl.md) 查看模板文件，再点击编辑即可复制模板内容。
+
 <span id="nav-8"></span>
 
 ## 🙆 关于作者
