@@ -49,7 +49,9 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ## 🌅 Graphic Demo
 
-![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository.gif)
+<!-- ![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository.gif) -->
+
+[![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/20210808014144.png)](https://www.youtube.com/embed/bOE3eJ-1eas)
 
 <span id="nav-5"></span>
 
