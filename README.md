@@ -80,6 +80,7 @@ This project is a Github sample warehouse template, the main content is the samp
 | |—— workflows                     Github Workflows
 | | |—— deploy-for-hugo.yml         Github Workflows Hugo Example
 | | |—— deploy-for-nodejs.yml       Github Workflows NodeJS Example
+| |—— pull-request-template.md      Github PR Template
 |—— CHANGELOG.md                    Release Log
 |—— LICENSE                         LICENSE
 |—— README.md                       English README

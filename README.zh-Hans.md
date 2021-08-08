@@ -79,6 +79,7 @@
 | |—— workflows                     Github 工作流
 | | |—— deploy-for-hugo.yml         Github 工作流 Hugo 示例
 | | |—— deploy-for-nodejs.yml       Github 工作流 NodeJS 示例
+| |—— pull-request-template.md      Github PR 模板
 |—— CHANGELOG.md                    发布日志
 |—— LICENSE                         许可证
 |—— README.md                       英语 README
