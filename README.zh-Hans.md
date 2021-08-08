@@ -53,7 +53,7 @@
 
 ## 🌅 图形演示
 
-![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository.gif)
+[![Click Gif to view the full demo](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository-mini.gif)](https://www.bilibili.com/video/BV1d64y1B7pe?share_source=copy_web)
 
 <span id="nav-5"></span>
 
