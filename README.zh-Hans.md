@@ -68,6 +68,25 @@
 
 ## 🍊 架构
 
+```
+|—— .gitee                          Gitee Configuration File
+| |—— ISSUE_TEMPLATE.md             Gitee Issue Template
+| |—— PULL_REQUEST_TEMPLATE.md      Gitee PR Template
+|—— .github                         Github Configuration File
+| |—— ISSUE_TEMPLATE                Github Issue Template
+| | |—— issue-template-bug.md       Github Issue Bug Template
+| | |—— issue-template-feature.md   Github Issue Feature Template
+| |—— workflows                     Github Workflows
+| | |—— deploy-for-hugo.yml         Github Workflows Hugo Example
+| | |—— deploy-for-nodejs.yml       Github Workflows NodeJS Example
+|—— CHANGELOG.md                    Release Log
+|—— LICENSE                         LICENSE
+|—— README.md                       English README
+|—— README.zh-Hans.md               Other Language README
+|—— README.tmpl.md                  README Template
+
+```
+
 <span id="nav-7"></span>
 
 ## 💎 新手入门

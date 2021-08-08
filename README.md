@@ -69,6 +69,25 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ## 🍊 Architecture
 
+```
+|—— .gitee                          Gitee 配置文件
+| |—— ISSUE_TEMPLATE.md             Gitee Issue 模板
+| |—— PULL_REQUEST_TEMPLATE.md      Gitee PR 模板
+|—— .github                         Github 配置文件
+| |—— ISSUE_TEMPLATE                Github Issue 模板
+| | |—— issue-template-bug.md       Github Issue Bug 模板
+| | |—— issue-template-feature.md   Github Issue Feature 模板
+| |—— workflows                     Github 工作流
+| | |—— deploy-for-hugo.yml         Github 工作流 Hugo 示例
+| | |—— deploy-for-nodejs.yml       Github 工作流 NodeJS 示例
+|—— CHANGELOG.md                    发布日志
+|—— LICENSE                         许可证
+|—— README.md                       英语 README
+|—— README.zh-Hans.md               其他语言 README
+|—— README.tmpl.md                  README 模板
+
+```
+
 <span id="nav-7"></span>
 
 ## 💎 Getting Started
