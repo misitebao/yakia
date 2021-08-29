@@ -28,7 +28,7 @@
 - [新手入门](#nav-7)
 - [关于作者](#nav-8)
 - [贡献者](#nav-9)
-  - [社区交流](#nav-9-1)
+- [社区交流](#nav-15)
 - [部分用户](#nav-10)
 - [发布记录](CHANGE.md)
 - [捐赠者](#nav-11)
@@ -106,7 +106,7 @@
 
 感谢所有参与 template-git-repository 开发的贡献者。[贡献者列表](https://github.com/misitebao/template-git-repository/graphs/contributors)
 
-<span id="nav-9-1"></span>
+<span id="nav-15"></span>
 
 ### 😵 社区交流
 

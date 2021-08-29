@@ -28,7 +28,7 @@ Open source Git repository template
 - [Getting Started](#nav-7)
 - [Authors](#nav-8)
 - [Contributors](#nav-9)
-  - [Community Exchange](#nav-9-1)
+- [Community Exchange](#nav-15)
 - [Part Of Users](#nav-10)
 - [Release History](CHANGE.md)
 - [Donators](#nav-11)
@@ -107,7 +107,7 @@ The author of this project: [Misitebao](https://github.com/misitebao). senior en
 
 Thank you to all the contributors who participated in the development of template-git-repository. [Contributors](https://github.com/misitebao/template-git-repository/graphs/contributors)
 
-<span id="nav-9-1"></span>
+<span id="nav-15"></span>
 
 ### 😵 Community Exchange
 

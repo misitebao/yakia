@@ -31,7 +31,7 @@
 - [Getting Started](#nav-7)
 - [Authors](#nav-8)
 - [Contributors](#nav-9)
-  - [Community Exchange](#nav-9-1)
+- [Community Exchange](#nav-15)
 - [Part Of Users](#nav-10)
 - [Release History](CHANGE.md)
 - [Donators](#nav-11)
@@ -89,7 +89,7 @@
 
 <!-- Fill in the list of contributors to the project here, usually a list, of course, you can also use pictures instead. -->
 
-<span id="nav-9-1"></span>
+<span id="nav-15"></span>
 
 ### 😵 Community Exchange
 
