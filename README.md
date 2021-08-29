@@ -109,7 +109,7 @@ Thank you to all the contributors who participated in the development of templat
 
 <span id="nav-15"></span>
 
-### 😵 Community Exchange
+## 😵 Community Exchange
 
 <span id="nav-10"></span>
 
