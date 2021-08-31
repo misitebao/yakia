@@ -15,6 +15,9 @@ Open source Git repository template
 
 ## 📚 Contents
 
+<details>
+  <summary>Click me to Open/Close the directory listing</summary>
+
 - [Internationalization](#nav-1)
 - [Contents](#nav-2)
 - [Introductions](#nav-3)
@@ -25,13 +28,15 @@ Open source Git repository template
 - [Getting Started](#nav-7)
 - [Authors](#nav-8)
 - [Contributors](#nav-9)
-  - [Community Exchange](#nav-9-1)
+- [Community Exchange](#nav-15)
 - [Part Of Users](#nav-10)
 - [Release History](CHANGE.md)
 - [Donators](#nav-11)
 - [Sponsors](#nav-12)
 - [Thanks](#nav-13)
 - [License](#nav-14)
+
+</details>
 
 <span id="nav-3"></span>
 
@@ -49,7 +54,7 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ## 🌅 Graphic Demo
 
-![](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/20210727130417.png)
+[![Click Gif to view the full demo](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository-mini.gif)](https://www.youtube.com/embed/bOE3eJ-1eas)
 
 <span id="nav-5"></span>
 
@@ -64,9 +69,31 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ## 🍊 Architecture
 
+```
+|—— .gitee                          Gitee Configuration File
+| |—— ISSUE_TEMPLATE.md             Gitee Issue Template
+| |—— PULL_REQUEST_TEMPLATE.md      Gitee PR Template
+|—— .github                         Github Configuration File
+| |—— ISSUE_TEMPLATE                Github Issue Template
+| | |—— issue-template-bug.md       Github Issue Bug Template
+| | |—— issue-template-feature.md   Github Issue Feature Template
+| |—— workflows                     Github Workflows
+| | |—— deploy-for-hugo.yml         Github Workflows Hugo Example
+| | |—— deploy-for-nodejs.yml       Github Workflows NodeJS Example
+| |—— pull-request-template.md      Github PR Template
+|—— CHANGELOG.md                    Release Log
+|—— LICENSE                         LICENSE
+|—— README.md                       English README
+|—— README.zh-Hans.md               Other Language README
+|—— README.tmpl.md                  README Template
+
+```
+
 <span id="nav-7"></span>
 
 ## 💎 Getting Started
+
+[Click me](README.tmpl.md) to view the template file, and then click Edit to copy the template content.
 
 <span id="nav-8"></span>
 
@@ -80,9 +107,9 @@ The author of this project: [Misitebao](https://github.com/misitebao). senior en
 
 Thank you to all the contributors who participated in the development of template-git-repository. [Contributors](https://github.com/misitebao/template-git-repository/graphs/contributors)
 
-<span id="nav-9-1"></span>
+<span id="nav-15"></span>
 
-### 😵 Community Exchange
+## 😵 Community Exchange
 
 <span id="nav-10"></span>
 
