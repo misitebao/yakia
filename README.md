@@ -33,7 +33,7 @@ Open source Git repository template
 - [Release History](CHANGE.md)
 - [Donators](#nav-11)
 - [Sponsors](#nav-12)
-- [Thanks](#nav-13)
+- [Special Thanks](#nav-13)
 - [License](#nav-14)
 
 </details>
@@ -125,7 +125,7 @@ Thank you to all the contributors who participated in the development of templat
 
 <span id="nav-13"></span>
 
-## 👏 Thanks
+## 👏 Special Thanks
 
 <span id="nav-14"></span>
 

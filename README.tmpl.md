@@ -36,7 +36,7 @@
 - [Release History](CHANGE.md)
 - [Donators](#nav-11)
 - [Sponsors](#nav-12)
-- [Thanks](#nav-13)
+- [Special Thanks](#nav-13)
 - [License](#nav-14)
 
 </details>
@@ -115,7 +115,7 @@
 
 <span id="nav-13"></span>
 
-## 👏 Thanks
+## 👏 Special Thanks
 
 <!-- Fill in the list of special thanks here, which can be anything or a person. -->
 
