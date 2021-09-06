@@ -5,10 +5,10 @@
   Open source Git repository template
 </p>
 <p align="center">
-  <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"></a>
-  <a href="https://github.com/misitebao"><img alt="GitHub Repo stars" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"></a>
+  <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/></a>
+  <a href="https://github.com/misitebao"><img alt="GitHub Repo stars" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/></a>
 </p>
 
 <span id="nav-1"></span>
