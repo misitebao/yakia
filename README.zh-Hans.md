@@ -2,7 +2,7 @@
   <img src="/logo.png" height="180" />
 </p>
 <p align="center">
-开源Git存储库模板
+  开源Git存储库模板
 </p>
 <p align="center">
   <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"></a>
