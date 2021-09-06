@@ -6,5 +6,9 @@
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "item.label.Discuss on Gitter": {
+    "message": "Gitter 讨论",
+    "description": "Navbar item with label Discuss on Gitter"
   }
 }

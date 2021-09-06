@@ -8,7 +8,8 @@
   <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"/></a>
   <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
   <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/></a>
-  <a href="https://github.com/misitebao"><img alt="GitHub Repo stars" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/></a>
+  <a href="https://github.com/misitebao"><img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/></a>
+  <a href="https://gitter.im/misitebao/standard-repository"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"/></a>
 </p>
 
 <span id="nav-2"></span>
@@ -136,6 +137,8 @@ Thank you to all the contributors who participated in the development of standar
 <span id="nav-10"></span>
 
 ## Community Exchange
+
+- [Gitter](https://gitter.im/misitebao/standard-repository) - A public instant chat tool.
 
 <span id="nav-11"></span>
 

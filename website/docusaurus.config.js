@@ -67,7 +67,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          // { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/blog', label: 'Blog', position: 'left' },,
+          {
+            to: 'https://gitter.im/misitebao/standard-repository',
+            label: 'Discuss on Gitter',
+            position: 'right',
+          },
           {
             type: 'localeDropdown',
             position: 'right',
