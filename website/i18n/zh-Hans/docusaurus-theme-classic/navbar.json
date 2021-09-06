@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "标准仓库",
+    "description": "The title in the navbar"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
