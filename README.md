@@ -9,7 +9,7 @@
   <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
   <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/></a>
   <a href="https://github.com/misitebao"><img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/></a>
-  <a href="https://gitter.im/misitebao/standard-repository"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"></a>
+  <a href="https://gitter.im/misitebao/standard-repository"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"/></a>
 </p>
 
 <span id="nav-1"></span>
