@@ -10,5 +10,9 @@
   "item.label.Discuss on Gitter": {
     "message": "Gitter 讨论",
     "description": "Navbar item with label Discuss on Gitter"
+  },
+  "item.label.Buy me a cup of coffee": {
+    "message": "请我喝杯咖啡 ☕",
+    "description": "Navbar item with label Buy me a cup of coffee"
   }
 }
