@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
   <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/></a>
   <a href="https://github.com/misitebao"><img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/></a>
   <a href="https://gitter.im/misitebao/standard-repository"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"/></a>
@@ -112,12 +112,12 @@
 
 如果您的 README 符合标准存储库，您可以添加一个徽章链接回此规范，以帮助其他人采用此自述文件。
 
-[![符合 standard-repository 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square)](https://github.com/misitebao/standard-repository)
+[![符合 standard-repository 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/standard-repository)
 
 以 Markdown 格式添加，请使用以下代码：
 
 ```markdown
-[![符合 standard-repository 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square)](https://github.com/misitebao/standard-repository)
+[![符合 standard-repository 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/standard-repository)
 ```
 
 以 HTML 格式添加，请使用以下代码：
@@ -126,7 +126,7 @@
 <a href="https://github.com/misitebao/standard-repository">
   <img
     alt="GitHub"
-    src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"
+    src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"
   />
 </a>
 ```
