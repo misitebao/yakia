@@ -49,7 +49,7 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ### Official Website
 
-[Recommend a standard repository layout!](https://blog.misitebao.com/posts/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84readme-%E8%87%AA%E7%94%A8git%E4%BB%93%E5%BA%93%E6%A8%A1%E6%9D%BF%E5%88%86%E4%BA%AB/)
+[Official Website Link](https://standard-repository.vercel.app)
 
 <span id="nav-3-2"></span>
 
