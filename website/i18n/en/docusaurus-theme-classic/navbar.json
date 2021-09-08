@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Standard Repository",
+    "description": "The title in the navbar"
+  },
+  "item.label.Discuss on Gitter": {
+    "message": "Discuss on Gitter",
+    "description": "Navbar item with label Discuss on Gitter"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Buy me a cup of coffee": {
+    "message": "Buy me a cup of coffee ☕",
+    "description": "Navbar item with label Buy me a cup of coffee"
+  }
+}
