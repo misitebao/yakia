@@ -120,6 +120,17 @@ To add in markdown format, please use the following code:
 [![Readme file conforming to standard-repository](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square)](https://github.com/misitebao/standard-repository)
 ```
 
+To add in HTML format, please use the following code:
+
+```html
+<a href="https://github.com/misitebao/standard-repository">
+  <img
+    alt="GitHub"
+    src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"
+  />
+</a>
+```
+
 <span id="nav-8"></span>
 
 ## Maintainer
