@@ -144,6 +144,11 @@ Thank you to all the contributors who participated in the development of standar
 
 ## Part Of Users
 
+- [Tigago](https://github.com/tigateam/tigago) - A modular framework based on Go language
+- [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A wails template based on Vue and Vue-Router
+
+> If your project uses this specification, you can fork this project and [submit a PR](https://github.com/misitebao/standard-repository/pulls) to add your project to this list, so that others can know your project.
+
 <span id="nav-12"></span>
 
 ## Donators

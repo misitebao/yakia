@@ -144,6 +144,11 @@
 
 ## 部分用户
 
+- [Tigago](https://github.com/tigateam/tigago) - 一个基于 Go 语言的模块化框架
+- [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 基于 Vue 和 Vue-Router 的 Wails 模板
+
+> 如果你的项目使用了此规范，你可以 Fork 此项目并[提交 PR](https://github.com/misitebao/standard-repository/pulls) 将您的项目添加在此列表，以便于让其他人知道您的项目。
+
 <span id="nav-12"></span>
 
 ## 捐赠者
