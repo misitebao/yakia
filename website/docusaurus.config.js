@@ -71,7 +71,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             to: 'https://patreon.com/misitebao',
             label: 'Buy me a cup of coffee',
-            position: 'right',
+            position: 'left',
           },
           {
             to: 'https://gitter.im/misitebao/standard-repository',
