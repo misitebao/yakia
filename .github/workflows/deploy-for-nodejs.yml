@@ -15,6 +15,10 @@
 #     steps:
 #       - name: Checkout | 切换到部署分支
 #         uses: actions/checkout@v2
+#         with:
+#           ref: "master"
+#           submodules: true
+#           fetch-depth: 0
 
 #       - name: Build Site | 构建网站
 #         run: |
@@ -27,4 +31,4 @@
 #           USERNAME: ${{ secrets.DEPLOY_HOST_USER }}
 #           PASSWORD: ${{ secrets.DEPLOY_HOST_PASSWORD }}
 #           SOURCE: "build"
-#           TARGET: "/www/wwwroot/tigateam.org"
+#           TARGET: "/www/wwwroot/your-domain.com"

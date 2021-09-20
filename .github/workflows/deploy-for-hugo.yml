@@ -37,4 +37,4 @@
 #           USERNAME: ${{ secrets.DEPLOY_HOST_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置
 #           PASSWORD: ${{ secrets.DEPLOY_HOST_PASSWORD }}
 #           SOURCE: "public"
-#           TARGET: "/www/wwwroot/tigateam.org"
+#           TARGET: "/www/wwwroot/your-domain.com"
