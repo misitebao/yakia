@@ -10,7 +10,11 @@ jobs:
     name: Automatic deployment | 自动部署
     runs-on: ubuntu-latest
     if: github.repository == 'misitebao/standard-repository'
-#     steps:
+    steps:
+      - name: Hello | 哈喽
+        run: |
+          echo "Hello!"
+
 #       - name: Checkout | 切换到部署分支
 #         uses: actions/checkout@v2
 #         with:
