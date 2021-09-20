@@ -5,12 +5,11 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
-# jobs:
-#   build-and-deploy:
-#     name: Automatic deployment | 自动部署
-#     runs-on: ubuntu-latest
-#     if: github.repository == 'misitebao/standard-repository'
-
+jobs:
+  build-and-deploy:
+    name: Automatic deployment | 自动部署
+    runs-on: ubuntu-latest
+    if: github.repository == 'misitebao/standard-repository'
 #     steps:
 #       - name: Checkout | 切换到部署分支
 #         uses: actions/checkout@v2
