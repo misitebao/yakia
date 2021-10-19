@@ -21,8 +21,8 @@ jobs:
 
       - name: Build Site | 构建
         run: |
-        cd website &&
-        npm install && npm run build
+          cd website &&
+          npm install && npm run build
 
       - name: Deploy to Server | 部署到服务器
         uses: hengkx/ssh-deploy@v1.0.1
