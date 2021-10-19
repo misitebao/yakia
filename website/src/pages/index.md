@@ -145,6 +145,8 @@ Thanks to the maintainers of these projects:
 
 Thank you to all the contributors who participated in the development of standard-repository. [Contributors](https://github.com/misitebao/standard-repository/graphs/contributors)
 
+<a href="https://github.com/crushonyou18"><img src="https://github.com/crushonyou18.png" width="40" height="40" alt="crushonyou18" title="crushonyou18"/></a>
+
 <span id="nav-10"></span>
 
 ## Community Exchange

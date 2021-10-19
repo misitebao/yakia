@@ -152,6 +152,8 @@
 
 感谢所有参与 standard-repository 开发的贡献者。[贡献者列表](https://github.com/misitebao/standard-repository/graphs/contributors)
 
+<a href="https://github.com/crushonyou18"><img src="https://github.com/crushonyou18.png" width="40" height="40" alt="crushonyou18" title="crushonyou18"/></a>
+
 <span id="nav-10"></span>
 
 ## 社区交流
