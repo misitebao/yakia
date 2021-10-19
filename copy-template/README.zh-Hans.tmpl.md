@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 在此处设置您的项目图标 -->
-  <img src="/logo.png" height="400" /><br/>
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/logo.gif" height="300" />
 </p>
 <p align="center">
 <!-- 在这里填写您的项目口标语，最好是一个简短的句子。 -->

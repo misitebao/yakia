@@ -58,7 +58,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'Standard Repository',
         logo: {
           alt: 'Standard Repository Logo',
-          src: 'img/logo.gif',
+          src: 'https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/logo.gif',
         },
         items: [
           // {
