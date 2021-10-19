@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/logo.png" height="180" />
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/logo.gif" height="300" />
 </p>
 <p align="center">
   开源Git存储库模板

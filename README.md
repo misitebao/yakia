@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.png" height="180" />
+  <img src="/logo.gif" height="300" />
 </p>
 <p align="center">
   Open source Git repository template
