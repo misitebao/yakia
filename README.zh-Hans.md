@@ -108,7 +108,7 @@
 
 ## 新手入门
 
-[点我](/edit/main/copy-template/README.zh-Hans.tmpl.md) 查看模板内容。
+[点我](/copy-template/README.zh-Hans.tmpl.md) 查看模板文件，再点击编辑即可复制模板内容。
 
 如果您的 README 符合标准存储库，您可以添加一个徽章链接回此规范，以帮助其他人采用此自述文件。
 
