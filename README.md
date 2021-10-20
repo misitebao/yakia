@@ -108,7 +108,7 @@ When searching for the required tools and libraries in the open source community
 
 ## Getting Started
 
-[Click me](/copy-template/README.tmpl.md) to view the template file, and then click Edit to copy the template content.
+[Click me](https://github.com/misitebao/standard-repository/edit/main/copy-template/README.tmpl.md) to view the template content.
 
 If your README conforms to the standard-repository, you can add a badge to link back to this specification to help others adopt this readme.
 
