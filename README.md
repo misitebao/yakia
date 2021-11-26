@@ -171,15 +171,15 @@ Thank you to all the contributors who participated in the development of standar
 
 <span id="nav-12"></span>
 
-## Donators
+<!-- ## Donators -->
 
 <span id="nav-13"></span>
 
-## Sponsors
+<!-- ## Sponsors -->
 
 <span id="nav-14"></span>
 
-## Special Thanks
+<!-- ## Special Thanks -->
 
 <span id="nav-15"></span>
 
