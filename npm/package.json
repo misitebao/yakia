@@ -14,7 +14,7 @@
   "goBinary": {
     "name": "stdrepo",
     "path": "./bin",
-    "url": "https://github.com/misitebao/standard-repository/releases/download/v{{version}}/tiga-cli_{{version}}_{{platform}}_{{arch}}.tar.gz"
+    "url": "https://github.com/misitebao/standard-repository/releases/download/v{{version}}/stdrepo-cli_{{version}}_{{platform}}_{{arch}}.tar.gz"
   },
   "repository": {
     "type": "git",
