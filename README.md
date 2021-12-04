@@ -14,6 +14,9 @@
   <a href="https://github.com/misitebao/standard-repository">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/>
   </a>
+  <a href="https://github.com/misitebao/standard-repository/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/misitebao/standard-repository?include_prereleases&sort=semver&style=flat-square">
+  </a>
   <a href="https://github.com/misitebao">
     <img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/>
   </a>
