@@ -146,7 +146,7 @@ To add in HTML format, please use the following code:
 
 Please modify the file name yourself to get the style you want:
 
-| 文件名                  | 样式预览                                                                                                                                        |
+| File Nmae               | Style Preview                                                                                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | badge_flat-square.svg   | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg)   |
 | badge_flat.svg          | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg)          |
