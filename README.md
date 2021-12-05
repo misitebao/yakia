@@ -144,6 +144,16 @@ To add in HTML format, please use the following code:
 </a>
 ```
 
+Please modify the file name yourself to get the style you want:
+
+| 文件名                  | 样式预览                                                                                                                                        |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| badge_flat-square.svg   | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg)   |
+| badge_flat.svg          | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg)          |
+| badge_for-the-badge.svg | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_for-the-badge.svg) |
+| badge_plastic.svg       | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_plastic.svg)       |
+| badge_social.svg        | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_social.svg)        |
+
 <span id="nav-8"></span>
 
 ## Maintainer

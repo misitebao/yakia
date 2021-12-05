@@ -144,6 +144,16 @@
 </a>
 ```
 
+请自行修改文件名以获取你想要的样式：
+
+| 文件名                  | 样式预览                                                                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| badge_flat-square.svg   | ![符合 standard-repository 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg)   |
+| badge_flat.svg          | ![符合 standard-repository 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg)          |
+| badge_for-the-badge.svg | ![符合 standard-repository 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_for-the-badge.svg) |
+| badge_plastic.svg       | ![符合 standard-repository 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_plastic.svg)       |
+| badge_social.svg        | ![符合 standard-repository 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_social.svg)        |
+
 <span id="nav-8"></span>
 
 ## 维护者
