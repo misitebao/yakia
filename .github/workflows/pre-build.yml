@@ -1,0 +1,25 @@
+name: Pre Build | 预构建
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-and-submit:
+    name: Build
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macOS-latest]
+    steps:
+      - name: Checkout | 切换到部署分支
+        uses: actions/checkout@v2
+        with:
+          ref: "main"
+          submodules: true
+          fetch-depth: 0
+
+      - name: Run Script | 运行脚本
+        run: |
+          echo "Test build script"
