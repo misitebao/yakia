@@ -1,0 +1,18 @@
+[package]
+authors = ["Misitebao <i@misitebao.com>"]
+description = "Tools for developers to manage projects."
+edition = "2021"
+homepage = "https://yakia.misitebao.com"
+keywords = ["yakia"]
+license = "MIT"
+name = "yakia"
+repository = "https://github.com/misitebao/yakia"
+version = "0.1.0"
+
+[[bin]]
+name = "yakia"
+path = "src/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

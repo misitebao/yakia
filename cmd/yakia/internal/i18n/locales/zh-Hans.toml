@@ -1,0 +1,54 @@
+Name = "标准仓库命令行工具"
+
+HelpTemplate = """
+{{with (or .Long .Short)}}{{. | trimTrailingWhitespaces}}{{end}}
+
+使用方法:{{if .Runnable}}
+  {{.UseLine}}{{end}}{{if .HasAvailableSubCommands}}{{end}} {{if gt (len .Aliases) 0}}
+
+Aliases:
+  {{.NameAndAliases}}{{end}}{{if .HasExample}}
+
+Examples:
+{{.Example}}{{end}}{{if .HasAvailableSubCommands}}
+
+Available Commands:{{range .Commands}}{{if (or .IsAvailableCommand)}}
+  {{rpad .Name .NamePadding }} {{.Short}}{{end}}{{end}}{{end}}{{if .HasAvailableLocalFlags}}
+
+Flags:
+{{.LocalFlags.FlagUsages | trimTrailingWhitespaces}}{{end}}{{if .HasAvailableInheritedFlags}}
+
+Global Flags:
+{{.InheritedFlags.FlagUsages | trimTrailingWhitespaces}}{{end}}{{if .HasHelpSubCommands}}
+
+Additional help topics:{{range .Commands}}{{if .IsAdditionalHelpTopicCommand}}
+  {{rpad .CommandPath .CommandPathPadding}} {{.Short}}{{end}}{{end}}{{end}}{{if .HasAvailableSubCommands}}
+
+Use "{{.CommandPath}} [command] --help" for more information about a command.{{end}}
+
+If yakia is useful to you or your company, please consider sponsoring the project:
+https://github.com/sponsors/misitebao
+"""
+
+
+[Template]
+Usage = "使用方法"
+Aliases = "别名"
+Examples = "示例"
+AvailableCommands = "可用命令"
+Flags = "标志"
+GlobalFlags = "全局标志"
+
+[commands]
+name = "标准仓库命令行工具"
+short = "标准仓库命令行工具"
+long = "标准仓库命令行工具"
+
+  [commands.help]
+  [commands.version]
+  [commands.init]
+  short = "Initialize directories and files"
+  long = "Initialize directories and files"
+
+  [commands.doctor]
+  [commands.dev]

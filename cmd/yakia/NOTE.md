@@ -1,0 +1,3 @@
+yakia init -r
+
+yarn

@@ -1,0 +1,67 @@
+# This is an example .goreleaser.yml file with some sensible defaults.
+# Make sure to check the documentation at https://goreleaser.com
+
+project_name: Yakia
+
+before:
+  hooks:
+    - go mod tidy
+
+builds:
+  - id: b1
+    env:
+      - CGO_ENABLED=0
+    goos:
+      - linux
+      - windows
+      - darwin
+    goarch:
+      - amd64
+      - arm64
+      - "386"
+    binary: yakia
+    main: ./cmd/yakia/
+
+  - id: b2
+    goos:
+      - "windows"
+    binary: yakia
+    main: ./cmd/yakia/
+
+archives:
+  - id: a1
+    builds:
+      - "b1"
+    format: tar.gz
+    format_overrides:
+      - goos: windows
+        format: zip
+  - id: a2
+    builds:
+      - "b2"
+    format: binary
+
+checksum:
+  name_template: "checksums.txt"
+
+release:
+  github:
+    owner: misitebao
+    name: yakia
+  draft: true
+  replace_existing_draft: true
+
+changelog:
+  skip: true
+
+nfpms:
+  - homepage: https://github.com/misitebao/yakia
+    maintainer: Misite Bao <i@misitebao.com>
+    description: |-
+      Tools for developers to manage projects.
+    license: MIT
+    formats:
+      - deb
+      - rpm
+      - apk
+      - archlinux
