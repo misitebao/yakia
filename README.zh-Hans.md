@@ -20,6 +20,9 @@
   <a href="https://github.com/misitebao">
     <img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/>
   </a>
+  <a href="https://github.com/misitebao/standard-repository/actions/workflows/pre-build.yml">
+    <img alt="Pre Build" src="https://img.shields.io/github/workflow/status/misitebao/standard-repository/Pre%20Build%20%7C%20预构建/main?style=flat-square&logo=github"/>
+  </a>
   <a href="https://gitter.im/misitebao/standard-repository">
     <img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"/>
   </a>
