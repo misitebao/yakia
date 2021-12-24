@@ -31,4 +31,4 @@ jobs:
           USERNAME: ${{ secrets.DEPLOY_HOST_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
           PASSWORD: ${{ secrets.DEPLOY_HOST_PASSWORD }}
           SOURCE: "website/build"
-          TARGET: "/www/wwwroot/standard-repository.misitebao.com"
+          TARGET: "/www/wwwroot/stdrepo.misitebao.com"

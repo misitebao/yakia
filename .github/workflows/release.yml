@@ -11,6 +11,8 @@ permissions:
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
+    if: github.repository == 'misitebao/standard-repository'
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v2
