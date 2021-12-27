@@ -40,5 +40,6 @@ func init() {
 
 	// rootCmd.PersistentFlags().StringP("language","l", "en", "Set the default email.")
 
-	
+	rootCmd.CompletionOptions.HiddenDefaultCmd = true
+
 }
