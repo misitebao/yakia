@@ -10,13 +10,13 @@ import (
 	"github.com/spf13/cobra"
 )
 
-const Version = "Standard Repository ClI v1.3.0-beta.1"
+const Version = "Standard Repository ClI v1.3.0-beta.2"
 
 // versionCmd represents the version command
 var versionCmd = &cobra.Command{
 	Use:   "version",
 	Short: "Print the version number standard repository ClI",
-	Long: `Print the version number standard repository ClI`,
+	Long:  `Print the version number standard repository ClI`,
 	Run: func(cmd *cobra.Command, args []string) {
 		fmt.Println(Version)
 	},
