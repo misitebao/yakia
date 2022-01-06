@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.gif" height="300" />
+  <img src="../logo.gif" height="300" />
 </p>
 <p align="center">
   开源Git存储库模板
@@ -124,8 +124,6 @@
 
 ## 新手入门
 
-[点我](/copy-template/README.zh-Hans.tmpl.md) 查看模板文件，再点击编辑即可复制模板内容。
-
 如果您的 README 符合标准存储库，您可以添加一个徽章链接回此规范，以帮助其他人采用此自述文件。
 
 [![符合 standard-repository 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg)](https://github.com/misitebao/standard-repository)
@@ -166,7 +164,7 @@
 <a href="https://github.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
 
 <details>
-  <summary>点我 打开/关闭 贡献者列表</summary>
+  <summary>点我 打开/关闭 维护者列表</summary>
 
 - [米司特包](https://github.com/misitebao) - 项目作者，全栈工程师。
 
@@ -211,4 +209,4 @@
 
 ## 版权许可
 
-[License MIT](LICENSE)
+[License MIT](../LICENSE)
