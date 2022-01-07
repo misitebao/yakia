@@ -10,7 +10,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
-const Version = "Standard Repository ClI v1.3.0-beta.2"
+const Version = "Standard Repository ClI v1.3.0-beta.3"
 
 // versionCmd represents the version command
 var versionCmd = &cobra.Command{
