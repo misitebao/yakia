@@ -1,5 +1,5 @@
 ---
-name: Feature Template | 功能提交模板
+name: Feature Request | 功能请求
 about: Please describe in detail the features you expect | 请详细描述您期望的功能
 title: "[Feature]Some feature... | 一些功能。。。"
 ---

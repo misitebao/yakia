@@ -1,5 +1,5 @@
 ---
-name: Bug Template | 问题提交模板
+name: Bug Report | 错误报告
 about: Please describe in detail the problems you encountered in the process of using | 请详细描述您使用过程中遇到的问题
 title: "[Bug]Some problem... | 一些问题。。。"
 ---
