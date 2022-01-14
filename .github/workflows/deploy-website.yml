@@ -5,6 +5,8 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  workflow_dispatch: # click the button on Github repo!
+  
 jobs:
   build-and-deploy:
     name: Automatic deployment | 自动部署
