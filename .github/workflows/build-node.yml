@@ -1,4 +1,4 @@
-name: Deploy | 部署
+name: Build Node | 构建Node
 
 on:
   push:
