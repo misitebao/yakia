@@ -10,10 +10,10 @@ import (
 	"github.com/spf13/cobra"
 )
 
-const Version = "Standard Repository ClI v1.3.0-beta.3"
+const Version = "v1.3.0-beta.3"
 
 // versionCmd represents the version command
-var versionCmd = &cobra.Command{
+var VersonCmd = &cobra.Command{
 	Use:   "version",
 	Short: "Print the version number standard repository ClI",
 	Long:  `Print the version number standard repository ClI`,
@@ -23,7 +23,6 @@ var versionCmd = &cobra.Command{
 }
 
 func init() {
-	rootCmd.AddCommand(versionCmd)
 
 	// Here you will define your flags and configuration settings.
 

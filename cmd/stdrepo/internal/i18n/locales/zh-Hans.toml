@@ -1,0 +1,23 @@
+Name = "标准仓库命令行工具"
+
+[Template]
+Usage = "使用方法"
+Aliases = "别名"
+Examples = "示例"
+AvailableCommands = "可用命令"
+Flags = "标志"
+GlobalFlags = "全局标志"
+
+[commands]
+name = "标准仓库命令行工具"
+short = "标准仓库命令行工具"
+long = "标准仓库命令行工具"
+
+  [commands.help]
+  [commands.version]
+  [commands.init]
+  short = "Initialize directories and files"
+  long = "Initialize directories and files"
+
+  [commands.doctor]
+  [commands.dev]
