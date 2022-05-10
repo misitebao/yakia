@@ -1,4 +1,4 @@
-module github.com/misitebao/standard-repository
+module github.com/misitebao/yakia
 
 go 1.17
 

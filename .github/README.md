@@ -1,30 +1,24 @@
 <p align="center">
-  <img src="../logo.gif" height="300" />
-</p>
-<p align="center">
-  Open source Git repository template
-</p>
-<p align="center">
-  <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"/>
+  <a href="https://github.com/misitebao/yakia/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/>
   </a>
-  <a href="https://github.com/misitebao/standard-repository">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg"/>
+  <a href="https://github.com/misitebao/yakia">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg"/>
   </a>
-  <a href="https://github.com/misitebao/standard-repository">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/>
+  <a href="https://github.com/misitebao/yakia">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/yakia?style=flat-square"/>
   </a>
-  <a href="https://github.com/misitebao/standard-repository/releases">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/misitebao/standard-repository?include_prereleases&sort=semver&style=flat-square">
+  <a href="https://github.com/misitebao/yakia/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/misitebao/yakia?include_prereleases&sort=semver&style=flat-square">
   </a>
   <a href="https://github.com/misitebao">
     <img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/>
   </a>
-  <a href="https://github.com/misitebao/standard-repository/actions/workflows/pre-build.yml">
-    <img alt="Pre Build" src="https://img.shields.io/github/workflow/status/misitebao/standard-repository/Pre%20Build%20%7C%20预构建/main?style=flat-square&logo=github"/>
+  <a href="https://github.com/misitebao/yakia/actions/workflows/pre-build.yml">
+    <img alt="Pre Build" src="https://img.shields.io/github/workflow/status/misitebao/yakia/Pre%20Build%20%7C%20预构建/main?style=flat-square&logo=github"/>
   </a>
-  <a href="https://gitter.im/misitebao/standard-repository">
-    <img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"/>
+  <a href="https://gitter.im/misitebao/yakia">
+    <img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/yakia?style=flat-square&color=4ab494"/>
   </a>
 </p>
 
@@ -72,7 +66,7 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ### Official Website
 
-[Official Website Link](https://standard-repository.vercel.app)
+[Official Website Link](https://yakia.vercel.app)
 
 <span id="nav-3-2"></span>
 
@@ -124,36 +118,36 @@ When searching for the required tools and libraries in the open source community
 
 ## Getting Started
 
-If your README conforms to the standard-repository, you can add a badge to link back to this specification to help others adopt this readme.
+If your README conforms to the yakia, you can add a badge to link back to this specification to help others adopt this readme.
 
-[![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg)](https://github.com/misitebao/standard-repository)
+[![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
 
 To add in markdown format, please use the following code:
 
 ```markdown
-[![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg)](https://github.com/misitebao/standard-repository)
+[![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
 ```
 
 To add in HTML format, please use the following code:
 
 ```html
-<a href="https://github.com/misitebao/standard-repository">
+<a href="https://github.com/misitebao/yakia">
   <img
     alt="GitHub"
-    src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg"
+    src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg"
   />
 </a>
 ```
 
 Please modify the file name yourself to get the style you want:
 
-| File Nmae               | Style Preview                                                                                                                                   |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| badge_flat-square.svg   | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg)   |
-| badge_flat.svg          | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg)          |
-| badge_for-the-badge.svg | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_for-the-badge.svg) |
-| badge_plastic.svg       | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_plastic.svg)       |
-| badge_social.svg        | ![Readme file conforming to standard-repository](https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_social.svg)        |
+| File Nmae               | Style Preview                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| badge_flat-square.svg   | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)   |
+| badge_flat.svg          | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat.svg)          |
+| badge_for-the-badge.svg | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_for-the-badge.svg) |
+| badge_plastic.svg       | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_plastic.svg)       |
+| badge_social.svg        | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_social.svg)        |
 
 <span id="nav-8"></span>
 
@@ -174,7 +168,7 @@ Thanks to the maintainers of these projects:
 
 ## Contributors
 
-Thank you to all the contributors who participated in the development of standard-repository. [Contributors](https://github.com/misitebao/standard-repository/graphs/contributors)
+Thank you to all the contributors who participated in the development of yakia. [Contributors](https://github.com/misitebao/yakia/graphs/contributors)
 
 <a href="https://github.com/crushonyou18"><img src="https://github.com/crushonyou18.png" width="40" height="40" alt="crushonyou18" title="crushonyou18"/></a>
 
@@ -182,7 +176,7 @@ Thank you to all the contributors who participated in the development of standar
 
 ## Community Exchange
 
-- [Gitter](https://gitter.im/misitebao/standard-repository) - A public instant chat tool.
+- [Gitter](https://gitter.im/misitebao/yakia) - A public instant chat tool.
 
 <span id="nav-11"></span>
 
@@ -191,7 +185,7 @@ Thank you to all the contributors who participated in the development of standar
 - [Tigago](https://github.com/tigateam/tigago) - A modular framework based on Go language
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A wails template based on Vue and Vue-Router
 
-> If your project uses this specification, you can fork this project and [submit a PR](https://github.com/misitebao/standard-repository/pulls) to add your project to this list, so that others can know your project.
+> If your project uses this specification, you can fork this project and [submit a PR](https://github.com/misitebao/yakia/pulls) to add your project to this list, so that others can know your project.
 
 <span id="nav-12"></span>
 

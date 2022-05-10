@@ -1,15 +1,16 @@
 package commands
 
 import (
-	"github.com/misitebao/standard-repository/cmd/stdrepo/internal/commands/doctor"
-	"github.com/misitebao/standard-repository/cmd/stdrepo/internal/commands/initialise"
-	ini18n "github.com/misitebao/standard-repository/cmd/stdrepo/internal/i18n"
+	"github.com/misitebao/yakia/cmd/yakia/internal/commands/dev"
+	"github.com/misitebao/yakia/cmd/yakia/internal/commands/doctor"
+	"github.com/misitebao/yakia/cmd/yakia/internal/commands/initialise"
+	ini18n "github.com/misitebao/yakia/cmd/yakia/internal/i18n"
 	"github.com/spf13/cobra"
 )
 
 // cmd represents the base command when called without any subcommands
 var cmd = &cobra.Command{
-	Use:   "stdrepo",
+	Use:   "yakia",
 	Short: ini18n.T("commands.short"),
 	Long:  ini18n.T("commands.long"),
 	Run: func(cmd *cobra.Command, args []string) {
@@ -23,6 +24,7 @@ func init() {
 	cmd.AddCommand(VersonCmd)
 	cmd.AddCommand(initialise.Cmd)
 	cmd.AddCommand(doctor.Cmd)
+	cmd.AddCommand(dev.Cmd)
 
 	cmd.CompletionOptions.HiddenDefaultCmd = true
 
