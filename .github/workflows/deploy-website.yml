@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch: # click the button on Github repo!
-  
+
 jobs:
   build-and-deploy:
     name: Automatic deployment | 自动部署
@@ -21,16 +21,16 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Build Site | 构建
-        run: |
-          cd website &&
-          npm install && npm run build
+      # - name: Build Site | 构建
+      #   run: |
+      #     cd website &&
+      #     npm install && npm run build
 
-      - name: Deploy to Server | 部署到服务器
-        uses: hengkx/ssh-deploy@v1.0.1
-        with:
-          HOST: ${{ secrets.DEPLOY_HOST }}
-          USERNAME: ${{ secrets.DEPLOY_HOST_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
-          PASSWORD: ${{ secrets.DEPLOY_HOST_PASSWORD }}
-          SOURCE: "website/build"
-          TARGET: "/www/wwwroot/yakia.misitebao.com"
+      # - name: Deploy to Server | 部署到服务器
+      #   uses: hengkx/ssh-deploy@v1.0.1
+      #   with:
+      #     HOST: ${{ secrets.DEPLOY_HOST }}
+      #     USERNAME: ${{ secrets.DEPLOY_HOST_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
+      #     PASSWORD: ${{ secrets.DEPLOY_HOST_PASSWORD }}
+      #     SOURCE: "website/build"
+      #     TARGET: "/www/wwwroot/yakia.misitebao.com"
