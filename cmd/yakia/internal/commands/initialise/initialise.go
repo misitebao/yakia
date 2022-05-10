@@ -3,7 +3,7 @@ package initialise
 import (
 	"fmt"
 
-	ini18n "github.com/misitebao/standard-repository/cmd/stdrepo/internal/i18n"
+	ini18n "github.com/misitebao/yakia/cmd/yakia/internal/i18n"
 	"github.com/spf13/cobra"
 )
 

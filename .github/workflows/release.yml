@@ -12,7 +12,7 @@ permissions:
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
-    if: github.repository == 'misitebao/standard-repository'
+    if: github.repository == 'misitebao/yakia'
 
     steps:
       - name: Checkout

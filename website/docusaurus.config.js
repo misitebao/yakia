@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Standard Repository',
   tagline: 'Standard Repository Template',
-  url: 'https://standard-repository.vercel.app/',
+  url: 'https://yakia.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'misitebao', // Usually your GitHub org/user name.
-  projectName: 'standard-repository', // Usually your repo name.
+  projectName: 'yakia', // Usually your repo name.
   // i18n
   i18n: {
     defaultLocale: 'en',
@@ -36,13 +36,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/misitebao/standard-repository/edit/main/website/',
+          editUrl: 'https://github.com/misitebao/yakia/edit/main/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/misitebao/standard-repository/edit/main/website/blog/',
+            'https://github.com/misitebao/yakia/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,7 +58,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'Standard Repository',
         logo: {
           alt: 'Standard Repository Logo',
-          src: 'https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/logo.gif',
+          src: 'https://cdn.jsdelivr.net/gh/misitebao/yakia@main/logo.gif',
         },
         items: [
           // {
@@ -74,7 +74,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
           },
           {
-            to: 'https://gitter.im/misitebao/standard-repository',
+            to: 'https://gitter.im/misitebao/yakia',
             label: 'Discuss on Gitter',
             position: 'right',
           },
@@ -82,11 +82,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'localeDropdown',
             position: 'right',
             dropdownItemsAfter: [
-              // { to: 'https://github.com/misitebao/standard-repository', label: 'Help Translate 💖', }, //Can add custom pages
+              // { to: 'https://github.com/misitebao/yakia', label: 'Help Translate 💖', }, //Can add custom pages
             ],
           },
           {
-            href: 'https://github.com/misitebao/standard-repository',
+            href: 'https://github.com/misitebao/yakia',
             label: 'GitHub',
             position: 'right',
           },

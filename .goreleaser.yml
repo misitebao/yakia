@@ -1,6 +1,6 @@
 # This is an example .goreleaser.yml file with some sane defaults.
 # Make sure to check the documentation at http://goreleaser.com
-project_name: stdrepo-cli
+project_name: yakia
 
 env_files:
   github_token: ~/.config/goreleaser/github_token
@@ -12,7 +12,7 @@ before:
     # you may remove this if you don't need go generate
     - go generate ./...
 builds:
-  - binary: stdrepo
+  - binary: yakia
     goos:
       - windows
       - darwin
@@ -20,7 +20,7 @@ builds:
     goarch:
       - amd64
       - 386
-    main: ./cmd/stdrepo/main.go
+    main: ./cmd/yakia/main.go
 #   - env:
 #       - CGO_ENABLED=0
 #     goos:

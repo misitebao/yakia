@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/logo.gif" height="300" />
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/logo.gif" height="300" />
 </p>
 <p align="center">
   Open source Git repository template
 </p>
 <p align="center">
-  <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/yakia/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/yakia"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
+  <a href="https://github.com/misitebao/yakia"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/yakia?style=flat-square"/></a>
   <a href="https://github.com/misitebao"><img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/></a>
-  <a href="https://gitter.im/misitebao/standard-repository"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"/></a>
+  <a href="https://gitter.im/misitebao/yakia"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/yakia?style=flat-square&color=4ab494"/></a>
 </p>
 
 <span id="nav-2"></span>
@@ -31,7 +31,7 @@
 - [Contributors](#nav-9)
 - [Community Exchange](#nav-10)
 - [Part Of Users](#nav-11)
-- [Release History](https://github.com/misitebao/standard-repository/blob/main/CHANGELOG.md)
+- [Release History](https://github.com/misitebao/yakia/blob/main/CHANGELOG.md)
 - [Donators](#nav-12)
 - [Sponsors](#nav-13)
 - [Special Thanks](#nav-14)
@@ -49,7 +49,7 @@ This project is a Github sample warehouse template, the main content is the samp
 
 ### Official Website
 
-[Official Website Link](https://standard-repository.vercel.app)
+[Official Website Link](https://yakia.vercel.app)
 
 <span id="nav-3-2"></span>
 
@@ -101,22 +101,22 @@ When searching for the required tools and libraries in the open source community
 
 ## Getting Started
 
-[Click me](https://github.com/misitebao/standard-repository/blob/main/copy-template/README.tmpl.md) to view the template file, and then click Edit to copy the template content.
+[Click me](https://github.com/misitebao/yakia/blob/main/copy-template/README.tmpl.md) to view the template file, and then click Edit to copy the template content.
 
-If your README conforms to the standard-repository, you can add a badge to link back to this specification to help others adopt this readme.
+If your README conforms to the yakia, you can add a badge to link back to this specification to help others adopt this readme.
 
-[![Readme file conforming to standard-repository](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/standard-repository)
+[![Readme file conforming to yakia](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/yakia)
 
 To add in markdown format, please use the following code:
 
 ```markdown
-[![Readme file conforming to standard-repository](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/standard-repository)
+[![Readme file conforming to yakia](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/yakia)
 ```
 
 To add in HTML format, please use the following code:
 
 ```html
-<a href="https://github.com/misitebao/standard-repository">
+<a href="https://github.com/misitebao/yakia">
   <img
     alt="GitHub"
     src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"
@@ -143,7 +143,7 @@ Thanks to the maintainers of these projects:
 
 ## Contributors
 
-Thank you to all the contributors who participated in the development of standard-repository. [Contributors](https://github.com/misitebao/standard-repository/graphs/contributors)
+Thank you to all the contributors who participated in the development of yakia. [Contributors](https://github.com/misitebao/yakia/graphs/contributors)
 
 <a href="https://github.com/crushonyou18"><img src="https://github.com/crushonyou18.png" width="40" height="40" alt="crushonyou18" title="crushonyou18"/></a>
 
@@ -151,7 +151,7 @@ Thank you to all the contributors who participated in the development of standar
 
 ## Community Exchange
 
-- [Gitter](https://gitter.im/misitebao/standard-repository) - A public instant chat tool.
+- [Gitter](https://gitter.im/misitebao/yakia) - A public instant chat tool.
 
 <span id="nav-11"></span>
 
@@ -160,7 +160,7 @@ Thank you to all the contributors who participated in the development of standar
 - [Tigago](https://github.com/tigateam/tigago) - A modular framework based on Go language
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A wails template based on Vue and Vue-Router
 
-> If your project uses this specification, you can fork this project and [submit a PR](https://github.com/misitebao/standard-repository/pulls) to add your project to this list, so that others can know your project.
+> If your project uses this specification, you can fork this project and [submit a PR](https://github.com/misitebao/yakia/pulls) to add your project to this list, so that others can know your project.
 
 <span id="nav-12"></span>
 
@@ -178,4 +178,4 @@ Thank you to all the contributors who participated in the development of standar
 
 ## License
 
-[License MIT](https://github.com/misitebao/standard-repository/blob/main/LICENSE)
+[License MIT](https://github.com/misitebao/yakia/blob/main/LICENSE)

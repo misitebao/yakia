@@ -1,13 +1,13 @@
-# Standard Repository
+# Yakia
 
 ## Install
 
 ```shell
-npm i -g stdrepo
+npm i -g yakia
 ```
 
 ## Usage
 
 ```shell
-stdrepo -h
+yakia -h
 ```

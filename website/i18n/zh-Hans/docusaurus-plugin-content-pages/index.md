@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/logo.gif" height="300" />
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/logo.gif" height="300" />
 </p>
 <p align="center">
   开源Git存储库模板
 </p>
 <p align="center">
-  <a href="https://github.com/misitebao/standard-repository/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/standard-repository?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/yakia/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/yakia"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
+  <a href="https://github.com/misitebao/yakia"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/yakia?style=flat-square"/></a>
   <a href="https://github.com/misitebao"><img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/></a>
-  <a href="https://gitter.im/misitebao/standard-repository"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/standard-repository?style=flat-square&color=4ab494"/></a>
+  <a href="https://gitter.im/misitebao/yakia"><img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/yakia?style=flat-square&color=4ab494"/></a>
 </p>
 
 <span id="nav-2"></span>
@@ -31,7 +31,7 @@
 - [贡献者](#nav-9)
 - [社区交流](#nav-10)
 - [部分用户](#nav-11)
-- [发布记录](https://github.com/misitebao/standard-repository/blob/main/CHANGELOG.md)
+- [发布记录](https://github.com/misitebao/yakia/blob/main/CHANGELOG.md)
 - [捐赠者](#nav-12)
 - [赞助商](#nav-13)
 - [特别感谢](#nav-14)
@@ -49,7 +49,7 @@
 
 ### 官方网站
 
-[官网地址](https://standard-repository.vercel.app)
+[官网地址](https://yakia.vercel.app)
 
 <span id="nav-3-2"></span>
 
@@ -101,22 +101,22 @@
 
 ## 新手入门
 
-[点我](https://github.com/misitebao/standard-repository/blob/main/copy-template/README.zh-Hans.tmpl.md) 查看模板文件，再点击编辑即可复制模板内容。
+[点我](https://github.com/misitebao/yakia/blob/main/copy-template/README.zh-Hans.tmpl.md) 查看模板文件，再点击编辑即可复制模板内容。
 
 如果您的 README 符合标准存储库，您可以添加一个徽章链接回此规范，以帮助其他人采用此自述文件。
 
-[![符合 standard-repository 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/standard-repository)
+[![符合 yakia 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/yakia)
 
 要以 Markdown 格式添加，请使用以下代码：
 
 ```markdown
-[![符合 standard-repository 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/standard-repository)
+[![符合 yakia 的自述文件](https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500)](https://github.com/misitebao/yakia)
 ```
 
 以 HTML 格式添加，请使用以下代码：
 
 ```html
-<a href="https://github.com/misitebao/standard-repository">
+<a href="https://github.com/misitebao/yakia">
   <img
     alt="GitHub"
     src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"
@@ -143,7 +143,7 @@
 
 ## 贡献者
 
-感谢所有参与 standard-repository 开发的贡献者。[贡献者列表](https://github.com/misitebao/standard-repository/graphs/contributors)
+感谢所有参与 yakia 开发的贡献者。[贡献者列表](https://github.com/misitebao/yakia/graphs/contributors)
 
 <a href="https://github.com/crushonyou18"><img src="https://github.com/crushonyou18.png" width="40" height="40" alt="crushonyou18" title="crushonyou18"/></a>
 
@@ -151,7 +151,7 @@
 
 ## 社区交流
 
-- [Gitter](https://gitter.im/misitebao/standard-repository) - 一个公开的即时聊天工具。
+- [Gitter](https://gitter.im/misitebao/yakia) - 一个公开的即时聊天工具。
 
 <span id="nav-11"></span>
 
@@ -160,7 +160,7 @@
 - [Tigago](https://github.com/tigateam/tigago) - 一个基于 Go 语言的模块化框架
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 基于 Vue 和 Vue-Router 的 Wails 模板
 
-> 如果你的项目使用了此规范，你可以 Fork 此项目并[提交 PR](https://github.com/misitebao/standard-repository/pulls) 将您的项目添加在此列表，以便于让其他人知道您的项目。
+> 如果你的项目使用了此规范，你可以 Fork 此项目并[提交 PR](https://github.com/misitebao/yakia/pulls) 将您的项目添加在此列表，以便于让其他人知道您的项目。
 
 <span id="nav-12"></span>
 
@@ -178,4 +178,4 @@
 
 ## 版权许可
 
-[License MIT](https://github.com/misitebao/standard-repository/blob/main/LICENSE)
+[License MIT](https://github.com/misitebao/yakia/blob/main/LICENSE)

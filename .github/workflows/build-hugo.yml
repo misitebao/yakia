@@ -11,7 +11,7 @@ jobs:
   build-and-deploy:
     name: Automatic deployment | 自动部署
     runs-on: ubuntu-latest
-    if: github.repository == 'misitebao/standard-repository'
+    if: github.repository == 'misitebao/yakia'
 
     steps:
       - name: Checkout | 切换到部署分支
