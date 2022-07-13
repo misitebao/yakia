@@ -1,6 +1,8 @@
 package commands
 
 import (
+	"fmt"
+
 	"github.com/misitebao/yakia/cmd/yakia/internal/commands/dev"
 	"github.com/misitebao/yakia/cmd/yakia/internal/commands/doctor"
 	"github.com/misitebao/yakia/cmd/yakia/internal/commands/initialise"
@@ -15,6 +17,7 @@ var cmd = &cobra.Command{
 	Long:  ini18n.T("commands.long"),
 	Run: func(cmd *cobra.Command, args []string) {
 		// fmt.Println(args)
+		fmt.Println(ini18n.T("HelpTemplate"))
 
 	},
 }
