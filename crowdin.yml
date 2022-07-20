@@ -1,0 +1,6 @@
+project_id: 527866
+api_token_env: CROWDIN_PERSONAL_TOKEN
+
+files:
+  - source: website/README.md
+    translation: /website/%file_name%.%locale%.%file_extension%
