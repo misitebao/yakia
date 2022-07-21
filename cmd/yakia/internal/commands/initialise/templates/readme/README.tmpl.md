@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Set your project logo image here -->
-  <img src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/logo.gif" height="300" />
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/yakia/logo.gif" height="300" />
 </p>
 <p align="center">
 <!-- Fill in your project slogan here, preferably a short sentence. -->

@@ -3,7 +3,7 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/>
   </a>
   <a href="https://github.com/misitebao/yakia">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg"/>
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg"/>
   </a>
   <a href="https://github.com/misitebao/yakia">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/yakia?style=flat-square"/>
@@ -78,7 +78,7 @@ When searching for the required tools and libraries in the open source community
 
 ## Graphic Demo
 
-[![Click Gif to view the full demo](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository-mini.gif)](https://www.youtube.com/embed/bOE3eJ-1eas)
+[![Click Gif to view the full demo](https://cdn.jsdelivr.net/gh/misitebao/CDN/md/template-git-repository-mini.gif)](https://www.youtube.com/embed/bOE3eJ-1eas)
 
 <span id="nav-5"></span>
 
@@ -120,12 +120,12 @@ When searching for the required tools and libraries in the open source community
 
 If your README conforms to the yakia, you can add a badge to link back to this specification to help others adopt this readme.
 
-[![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
+[![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
 
 To add in markdown format, please use the following code:
 
 ```markdown
-[![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
+[![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
 ```
 
 To add in HTML format, please use the following code:
@@ -134,7 +134,7 @@ To add in HTML format, please use the following code:
 <a href="https://github.com/misitebao/yakia">
   <img
     alt="GitHub"
-    src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg"
+    src="https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg"
   />
 </a>
 ```
@@ -143,11 +143,11 @@ Please modify the file name yourself to get the style you want:
 
 | File Nmae               | Style Preview                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| badge_flat-square.svg   | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)   |
-| badge_flat.svg          | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat.svg)          |
-| badge_for-the-badge.svg | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_for-the-badge.svg) |
-| badge_plastic.svg       | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_plastic.svg)       |
-| badge_social.svg        | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_social.svg)        |
+| badge_flat-square.svg   | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)   |
+| badge_flat.svg          | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat.svg)          |
+| badge_for-the-badge.svg | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_for-the-badge.svg) |
+| badge_plastic.svg       | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_plastic.svg)       |
+| badge_social.svg        | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_social.svg)        |
 
 <span id="nav-8"></span>
 

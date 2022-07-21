@@ -3,7 +3,7 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/>
   </a>
   <a href="https://github.com/misitebao/yakia">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg"/>
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg"/>
   </a>
   <a href="https://github.com/misitebao/yakia">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/yakia?style=flat-square"/>
@@ -78,7 +78,7 @@
 
 ## 图形演示
 
-[![单击 Gif 查看完整演示](https://cdn.jsdelivr.net/gh/misitebao/CDN@main/md/template-git-repository-mini.gif)](https://www.bilibili.com/video/BV1d64y1B7pe?share_source=copy_web)
+[![单击 Gif 查看完整演示](https://cdn.jsdelivr.net/gh/misitebao/CDN/md/template-git-repository-mini.gif)](https://www.bilibili.com/video/BV1d64y1B7pe?share_source=copy_web)
 
 <span id="nav-5"></span>
 
@@ -120,12 +120,12 @@
 
 如果您的 README 符合标准存储库，您可以添加一个徽章链接回此规范，以帮助其他人采用此自述文件。
 
-[![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
+[![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
 
 以 Markdown 格式添加，请使用以下代码：
 
 ```markdown
-[![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
+[![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)](https://github.com/misitebao/yakia)
 ```
 
 以 HTML 格式添加，请使用以下代码：
@@ -134,7 +134,7 @@
 <a href="https://github.com/misitebao/yakia">
   <img
     alt="GitHub"
-    src="https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg"
+    src="https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg"
   />
 </a>
 ```
@@ -143,11 +143,11 @@
 
 | 文件名                  | 样式预览                                                                                                  |
 | ----------------------- | --------------------------------------------------------------------------------------------------------- |
-| badge_flat-square.svg   | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat-square.svg)   |
-| badge_flat.svg          | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_flat.svg)          |
-| badge_for-the-badge.svg | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_for-the-badge.svg) |
-| badge_plastic.svg       | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_plastic.svg)       |
-| badge_social.svg        | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia@main/assets/badge_social.svg)        |
+| badge_flat-square.svg   | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)   |
+| badge_flat.svg          | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat.svg)          |
+| badge_for-the-badge.svg | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_for-the-badge.svg) |
+| badge_plastic.svg       | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_plastic.svg)       |
+| badge_social.svg        | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_social.svg)        |
 
 <span id="nav-8"></span>
 
