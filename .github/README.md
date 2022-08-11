@@ -2,25 +2,35 @@
 
 <p align="center">
   <a href="https://github.com/misitebao/yakia/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/>
+    <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia"/>
   </a>
   <a href="https://github.com/misitebao/yakia">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg"/>
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat.svg"/>
   </a>
-  <a href="https://github.com/misitebao/yakia">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/misitebao/yakia?style=flat-square"/>
+  <a href="https://www.codefactor.io/repository/github/misitebao/yakia">
+    <img src="https://www.codefactor.io/repository/github/misitebao/yakia/badge" alt="CodeFactor" />
   </a>
-  <a href="https://github.com/misitebao/yakia/releases">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/misitebao/yakia?include_prereleases&sort=semver&style=flat-square">
+  <a href="https://pkg.go.dev/github.com/misitebao/yakia">
+    <img src="https://pkg.go.dev/badge/github.com/misitebao/yakia.svg" alt="Go Reference"/>
   </a>
-  <a href="https://github.com/misitebao">
-    <img alt="GitHub user" src="https://img.shields.io/badge/author-misitebao-brightgreen?style=flat-square"/>
+  <a href="https://goreportcard.com/report/github.com/misitebao/yakia">
+    <img src="https://goreportcard.com/badge/github.com/misitebao/yakia" alt="Go Report Card"/>
   </a>
   <a href="https://github.com/misitebao/yakia/actions/workflows/pre-build.yml">
-    <img alt="Pre Build" src="https://img.shields.io/github/workflow/status/misitebao/yakia/Pre%20Build%20%7C%20预构建/main?style=flat-square&logo=github"/>
+    <img alt="Pre Build" src="https://img.shields.io/github/workflow/status/misitebao/yakia/Pre%20Build%20%7C%20预构建/main?logo=github"/>
   </a>
-  <a href="https://gitter.im/misitebao/yakia">
-    <img alt="Gitter" src="https://img.shields.io/gitter/room/misitebao/yakia?style=flat-square&color=4ab494"/>
+  <a href="https://app.slack.com/client/T029RQSE6/C03RQSD4KA7">
+    <img alt="Slack" src="https://img.shields.io/badge/slack-gophers%2Fyakia%20-blue?logo=slack"/>
+  </a>
+  <br/>
+  <a href="https://pkg.go.dev/github.com/misitebao/yakia/cmd/yakia">
+    <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/misitebao/yakia?include_prereleases&label=pkg.go.dev"/>
+  </a>
+  <a href="https://www.npmjs.com/package/yakia">
+    <img alt="npm" src="https://img.shields.io/npm/v/yakia"/>
+  </a>
+  <a href="https://crates.io/crates/yakia">
+    <img alt="Crates.io" src="https://img.shields.io/crates/v/yakia"/>
   </a>
 </p>
 
