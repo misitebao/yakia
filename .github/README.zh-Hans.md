@@ -1,3 +1,5 @@
+<h1 align="center">Yakia</h1>
+
 <p align="center">
   <a href="https://github.com/misitebao/yakia/blob/main/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/>
@@ -22,74 +24,58 @@
   </a>
 </p>
 
-<span id="nav-1"></span>
-
 ## 国际化
 
 [English](README.md) | [简体中文](README.zh-Hans.md)
-
-<span id="nav-2"></span>
 
 ## 内容目录
 
 <details>
   <summary>点我 打开/关闭 目录列表</summary>
 
-- [国际化](#nav-1)
-- [内容目录](#nav-2)
-- [项目介绍](#nav-3)
-  - [官方网站](#nav-3-1)
-  - [背景](#nav-3-2)
-- [图形演示](#nav-4)
-- [功能特色](#nav-5)
-- [架构](#nav-6)
-- [新手入门](#nav-7)
-- [维护者](#nav-8)
-- [贡献者](#nav-9)
-- [社区交流](#nav-10)
-- [部分用户](#nav-11)
-- [发布记录](CHANGE.md)
-- [捐赠者](#nav-12)
-- [赞助商](#nav-13)
-- [特别感谢](#nav-14)
-- [版权许可](#nav-15)
+- [国际化](#国际化)
+- [内容目录](#内容目录)
+- [项目介绍](#项目介绍)
+  - [官方网站](#官方网站)
+  - [背景](#背景)
+- [图形演示](#图形演示)
+- [功能](#功能)
+- [架构](#架构)
+- [快速入门](#快速入门)
+- [维护者](#维护者)
+- [贡献者](#贡献者)
+- [社区交流](#社区交流)
+- [部分用户](#部分用户)
+- [发布记录](#发布记录)
+- [捐赠者](#捐赠者)
+- [赞助商](#赞助商)
+- [特别感谢](#特别感谢)
+- [许可证](#许可证)
 
 </details>
-
-<span id="nav-3"></span>
 
 ## 项目介绍
 
 此项目是一个 Github 示例仓库模板，主要内容为 README 的示例模板。
 
-<span id="nav-3-1"></span>
-
 ### 官方网站
 
 [官网地址](https://yakia.vercel.app)
-
-<span id="nav-3-2"></span>
 
 ### 背景
 
 在开源社区寻找所需要的工具和库的时候，发现有很多优秀的代码库，但是没有一个好的 README 文件或者使用教程，导致使用者需要花额外的时间去学习如何使用它，所以本项目提供了一个标准的代码库范本，希望可以帮助到他人。
 
-<span id="nav-4"></span>
-
 ## 图形演示
 
 [![单击 Gif 查看完整演示](https://cdn.jsdelivr.net/gh/misitebao/CDN/md/template-git-repository-mini.gif)](https://www.bilibili.com/video/BV1d64y1B7pe?share_source=copy_web)
 
-<span id="nav-5"></span>
-
-## 功能特色
+## 功能
 
 - 项目 logo 以及相应数据居中展示
 - 提供多语言功能以及示例模板
 - README 文件必备的说明
 - 内置目录导航功能，解决部分 Markdown 解析引擎不能正确解析导航的问题
-
-<span id="nav-6"></span>
 
 ## 架构
 
@@ -114,9 +100,7 @@
 
 ```
 
-<span id="nav-7"></span>
-
-## 新手入门
+## 快速入门
 
 如果您的 README 符合标准存储库，您可以添加一个徽章链接回此规范，以帮助其他人采用此自述文件。
 
@@ -141,15 +125,13 @@
 
 请自行修改文件名以获取你想要的样式：
 
-| 文件名                  | 样式预览                                                                                                  |
-| ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| 文件名                  | 样式预览                                                                                             |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- |
 | badge_flat-square.svg   | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)   |
 | badge_flat.svg          | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat.svg)          |
 | badge_for-the-badge.svg | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_for-the-badge.svg) |
 | badge_plastic.svg       | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_plastic.svg)       |
 | badge_social.svg        | ![符合 yakia 的自述文件](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_social.svg)        |
-
-<span id="nav-8"></span>
 
 ## 维护者
 
@@ -164,21 +146,15 @@
 
 </details>
 
-<span id="nav-9"></span>
-
 ## 贡献者
 
 感谢所有参与 yakia 开发的贡献者。[贡献者列表](https://github.com/misitebao/yakia/graphs/contributors)
 
 <a href="https://github.com/crushonyou18"><img src="https://github.com/crushonyou18.png" width="40" height="40" alt="crushonyou18" title="crushonyou18"/></a>
 
-<span id="nav-10"></span>
-
 ## 社区交流
 
 - [Gitter](https://gitter.im/misitebao/yakia) - 一个公开的即时聊天工具。
-
-<span id="nav-11"></span>
 
 ## 部分用户
 
@@ -187,20 +163,16 @@
 
 > 如果你的项目使用了此规范，你可以 Fork 此项目并[提交 PR](https://github.com/misitebao/yakia/pulls) 将您的项目添加在此列表，以便于让其他人知道您的项目。
 
-<span id="nav-12"></span>
+<!-- ## 发布记录 -->
 
 <!-- ## 捐赠者 -->
 
-<span id="nav-13"></span>
-
 <!-- ## 赞助商 -->
-
-<span id="nav-14"></span>
 
 <!-- ## 特别感谢 -->
 
-<span id="nav-15"></span>
-
-## 版权许可
+## 许可证
 
 [License MIT](../LICENSE)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmisitebao%2Fyakia.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmisitebao%2Fyakia?ref=badge_large)
