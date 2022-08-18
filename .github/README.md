@@ -1,3 +1,5 @@
+<h1 align="center">Yakia</h1>
+
 <p align="center">
   <a href="https://github.com/misitebao/yakia/blob/main/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/yakia?style=flat-square"/>
@@ -22,65 +24,51 @@
   </a>
 </p>
 
-<span id="nav-1"></span>
-
 ## Internationalization
 
 [English](README.md) | [简体中文](README.zh-Hans.md)
-
-<span id="nav-2"></span>
 
 ## Table of Contents
 
 <details>
   <summary>Click me to Open/Close the directory listing</summary>
 
-- [Internationalization](#nav-1)
-- [Table of Contents](#nav-2)
-- [Introductions](#nav-3)
-  - [Official Website](#nav-3-1)
-  - [Background](#nav-3-2)
-- [Graphic Demo](#nav-4)
-- [Features](#nav-5)
-- [Architecture](#nav-6)
-- [Getting Started](#nav-7)
-- [Maintainer](#nav-8)
-- [Contributors](#nav-9)
-- [Community Exchange](#nav-10)
-- [Part Of Users](#nav-11)
-- [Release History](CHANGE.md)
-- [Donators](#nav-12)
-- [Sponsors](#nav-13)
-- [Special Thanks](#nav-14)
-- [License](#nav-15)
+- [Internationalization](#internationalization)
+- [Table of Contents](#table-of-contents)
+- [Introductions](#introductions)
+  - [Official Website](#official-website)
+  - [Background](#background)
+- [Graphic Demo](#graphic-demo)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Getting Started](#getting-started)
+- [Maintainer](#maintainer)
+- [Contributors](#contributors)
+- [Community Exchange](#community-exchange)
+- [Part Of Users](#part-of-users)
+- [Release History](#release-history)
+- [Donators](#donators)
+- [Sponsors](#sponsors)
+- [Special Thanks](#special-thanks)
+- [License](#license)
 
 </details>
-
-<span id="nav-3"></span>
 
 ## Introductions
 
 This project is a Github sample warehouse template, the main content is the sample template of README file.
 
-<span id="nav-3-1"></span>
-
 ### Official Website
 
 [Official Website Link](https://yakia.vercel.app)
-
-<span id="nav-3-2"></span>
 
 ### Background
 
 When searching for the required tools and libraries in the open source community, I found that there are many excellent code libraries, but there is no good README file or tutorial, which causes users to spend extra time to learn how to use it, so this project provides A standard code base template, hoping to help others.
 
-<span id="nav-4"></span>
-
 ## Graphic Demo
 
 [![Click Gif to view the full demo](https://cdn.jsdelivr.net/gh/misitebao/CDN/md/template-git-repository-mini.gif)](https://www.youtube.com/embed/bOE3eJ-1eas)
-
-<span id="nav-5"></span>
 
 ## Features
 
@@ -88,8 +76,6 @@ When searching for the required tools and libraries in the open source community
 - Provide multi-language functions and sample templates
 - README must-have instructions
 - Built-in directory navigation function to solve the problem that some Markdown parsing engines cannot parse navigation correctly
-
-<span id="nav-6"></span>
 
 ## Architecture
 
@@ -113,8 +99,6 @@ When searching for the required tools and libraries in the open source community
 |—— README.tmpl.md                  README Template
 
 ```
-
-<span id="nav-7"></span>
 
 ## Getting Started
 
@@ -141,15 +125,13 @@ To add in HTML format, please use the following code:
 
 Please modify the file name yourself to get the style you want:
 
-| File Nmae               | Style Preview                                                                                                       |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| File Nmae               | Style Preview                                                                                                  |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------- |
 | badge_flat-square.svg   | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat-square.svg)   |
 | badge_flat.svg          | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat.svg)          |
 | badge_for-the-badge.svg | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_for-the-badge.svg) |
 | badge_plastic.svg       | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_plastic.svg)       |
 | badge_social.svg        | ![Readme file conforming to yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_social.svg)        |
-
-<span id="nav-8"></span>
 
 ## Maintainer
 
@@ -164,21 +146,15 @@ Thanks to the maintainers of these projects:
 
 </details>
 
-<span id="nav-9"></span>
-
 ## Contributors
 
 Thank you to all the contributors who participated in the development of yakia. [Contributors](https://github.com/misitebao/yakia/graphs/contributors)
 
 <a href="https://github.com/crushonyou18"><img src="https://github.com/crushonyou18.png" width="40" height="40" alt="crushonyou18" title="crushonyou18"/></a>
 
-<span id="nav-10"></span>
-
 ## Community Exchange
 
 - [Gitter](https://gitter.im/misitebao/yakia) - A public instant chat tool.
-
-<span id="nav-11"></span>
 
 ## Part Of Users
 
@@ -187,19 +163,13 @@ Thank you to all the contributors who participated in the development of yakia. 
 
 > If your project uses this specification, you can fork this project and [submit a PR](https://github.com/misitebao/yakia/pulls) to add your project to this list, so that others can know your project.
 
-<span id="nav-12"></span>
+<!-- ## Release History -->
 
 <!-- ## Donators -->
 
-<span id="nav-13"></span>
-
 <!-- ## Sponsors -->
 
-<span id="nav-14"></span>
-
 <!-- ## Special Thanks -->
-
-<span id="nav-15"></span>
 
 ## License
 
