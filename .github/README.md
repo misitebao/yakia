@@ -24,6 +24,9 @@
   </a>
 </p>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmisitebao%2Fyakia.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmisitebao%2Fyakia?ref=badge_large)
+
 ## Internationalization
 
 [English](README.md) | [简体中文](README.zh-Hans.md)
@@ -69,6 +72,7 @@ When searching for the required tools and libraries in the open source community
 ## Graphic Demo
 
 [![Click Gif to view the full demo](https://cdn.jsdelivr.net/gh/misitebao/CDN/md/template-git-repository-mini.gif)](https://www.youtube.com/embed/bOE3eJ-1eas)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmisitebao%2Fyakia.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmisitebao%2Fyakia?ref=badge_shield)
 
 ## Features
 
