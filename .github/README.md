@@ -34,16 +34,21 @@
   </a>
 </p>
 
-## Internationalization
+<div align="center">
+<strong>
+<samp>
 
-[English](README.md) | [简体中文](README.zh-Hans.md)
+[English](README.md) · [简体中文](.github/README.zh-Hans.md)
+
+</samp>
+</strong>
+</div>
 
 ## Table of Contents
 
 <details>
   <summary>Click me to Open/Close the directory listing</summary>
 
-- [Internationalization](#internationalization)
 - [Table of Contents](#table-of-contents)
 - [Introductions](#introductions)
   - [Official Website](#official-website)
